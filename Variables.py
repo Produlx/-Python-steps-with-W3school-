@@ -8,3 +8,6 @@ print(y)
 
 x , y , z = 10 ,20 , 30
 print(x)
+FN = "Dulsath"
+LN = "Randeepana"
+print(FN , LN)
