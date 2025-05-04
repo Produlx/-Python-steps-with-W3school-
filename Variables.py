@@ -5,9 +5,14 @@ print(y)
 #out put is= 5 jhone (but out gaves downly)
 
 
-
+#test
 x , y , z = 10 ,20 , 30
 print(x)
 FN = "Dulsath"
 LN = "Randeepana"
 print(FN , LN)
+#test 2
+F = input("Enter your first name: ")
+L = input("Enter your last name: ")
+A = int(input("Enter your age: "))
+print(F , L , A ) 
