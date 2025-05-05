@@ -1,3 +1,4 @@
+'''
 x = 5
 y = "jhone"
 print(x)
@@ -18,3 +19,7 @@ A = int(input("Enter your age: "))
 print(F , L , A ) 
 print("---------------------------------------------------------------")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+'''
+#test 3
+hi = "ndoowijowjowewekwmwewemdwmwemwem"
+print(hi)
