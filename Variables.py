@@ -26,3 +26,5 @@ print(hi)
 
 bi = "msmsqq"
 print(bi)
+
+print(hi + bi )
