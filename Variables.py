@@ -23,3 +23,6 @@ print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 #test 3
 hi = "ndoowijowjowewekwmwewemdwmwemwem"
 print(hi)
+
+bi = "msmsqq"
+print(bi)
