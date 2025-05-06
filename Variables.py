@@ -43,3 +43,6 @@ else:
     else:
         if M >= 65:
             print("B")
+        else:
+            if M >= 55:
+                print("C")
