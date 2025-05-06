@@ -40,4 +40,6 @@ if M >= 90:
 else:
     if M >= 75:
         print("A")
-    
+    else:
+        if M >= 65:
+            print("B")
