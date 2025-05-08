@@ -59,6 +59,11 @@ print("-------------------------------------------------------------------------
 print("------------------------------------------------------------------------------------")
 name_user = input("Enter your name: ")
 print("Hi",name_user ",How can i help you today: ")
-
+'''
 print(f"Hi{name_user},How can i help you today: ")
+'''
 
+
+
+
+user_birthY = int(input("Enter your birth year: "))
