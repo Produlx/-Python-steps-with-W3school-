@@ -58,3 +58,4 @@ print("-------------------------------------------------------------------------
 #making a movie site
 print("------------------------------------------------------------------------------------")
 name_user = input("Enter your name: ")
+print("Hi,",name_user"! How can i help you today: ")
