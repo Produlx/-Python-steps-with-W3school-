@@ -59,7 +59,7 @@ print("-------------------------------------------------------------------------
 print("------------------------------------------------------------------------------------")
 name_user = input("Enter your name: ")
 age_user = int(input(f'Enter your age: '))
-print("Hi",name_user ",How can i help you today: ")
+print("dear",name_user ", How can i help you today?")
 '''
 print(f"Hi{name_user},How can i help you today: ")
 '''
