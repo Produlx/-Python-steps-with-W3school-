@@ -63,7 +63,11 @@ print("dear",name_user ", How can i help you today?")
 '''
 print(f"Hi{name_user},How can i help you today: ")
 '''
-
+MEG_2 = Meg 2
+DEAD_RACING_3 = Dead Racing 3
+THE_LOST = The lost 
+SUN_FUN_RUN = Sun Fun Run
+print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_FUN_RUN}')
 
 
 
