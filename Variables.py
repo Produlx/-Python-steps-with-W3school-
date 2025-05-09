@@ -69,3 +69,4 @@ print(f"Hi{name_user},How can i help you today: ")
 
 user_birthY = int(input("Enter your birth year: "))
 user_birthM = input("Enter your birth month: ")
+user_birthD = int(input("Enter your birth day: "))
