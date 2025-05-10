@@ -59,7 +59,7 @@ print("-------------------------------------------------------------------------
 print("------------------------------------------------------------------------------------")
 name_user = input("Enter your name: ")
 age_user = int(input(f'Enter your age: '))
-print("dear",name_user ", How can i help you today?")
+print("dear",name_user , "How can i help you today?")
 '''
 print(f"Hi{name_user},How can i help you today: ")
 '''
@@ -71,7 +71,8 @@ print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_
 user_choice = int(input("Enter your choise using only 1,2,3,4 : "))
 
 
-
+'''
 user_birthY = int(input("Enter your birth year: "))
 user_birthM = input("Enter your birth month: ")
 user_birthD = int(input("Enter your birth day: "))
+'''
