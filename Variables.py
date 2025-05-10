@@ -59,7 +59,10 @@ print("-------------------------------------------------------------------------
 print("------------------------------------------------------------------------------------")
 name_user = input("Enter your name: ")
 age_user = int(input(f'Enter your age: '))
-print("dear",name_user , "How can i help you today?")
+sex = input("Male or Female: ")
+
+print("")
+print("dear",name_user , ", How can i help you today?")
 '''
 print(f"Hi{name_user},How can i help you today: ")
 '''
@@ -81,6 +84,9 @@ else:
     else:
         if user_choice == 3:
             print("The Lost")
+        else:
+            user_choice == 4
+            print("SUN FUN RUN")
 
 
 '''
