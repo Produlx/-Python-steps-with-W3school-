@@ -78,6 +78,9 @@ if user_choice == 1:
 else:
     if user_choice == 2:
         print("Dead Racing 3")
+    else:
+        if user_choice == 3:
+            print("The Lost")
 
 
 '''
