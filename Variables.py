@@ -61,6 +61,8 @@ name_user = input("Enter your name: ")
 age_user = int(input(f'Enter your age: '))
 sex = input("Male or Female: ")
 
+if sex_user == "Female":
+
 print("")
 print("dear",name_user , ", How can i help you today?")
 '''
