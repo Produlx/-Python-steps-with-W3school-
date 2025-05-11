@@ -70,6 +70,8 @@ print("dear",name_user , ", How can i help you today?")
 '''
 print(f"Hi{name_user},How can i help you today: ")
 '''
+
+print("")
 MEG_2 = 1
 DEAD_RACING_3 = 2
 THE_LOST = 3 
