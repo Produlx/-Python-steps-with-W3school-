@@ -59,7 +59,7 @@ print("-------------------------------------------------------------------------
 print("------------------------------------------------------------------------------------")
 name_user = input("Enter your name: ")
 age_user = int(input(f'Enter your age: '))
-sex = input("Male or Female: ")
+sex_user = input("Male or Female: ")
 
 if sex_user == "Female":
 
