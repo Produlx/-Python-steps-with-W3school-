@@ -62,6 +62,7 @@ age_user = int(input(f'Enter your age: '))
 sex_user = input("Male or Female: ")
 
 if sex_user == "Female":
+    print(f'Hey {name_user},drop your wp number: ')
 
 print("")
 print("dear",name_user , ", How can i help you today?")
