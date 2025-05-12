@@ -76,6 +76,7 @@ MEG_2 = 1
 DEAD_RACING_3 = 2
 THE_LOST = 3 
 SUN_FUN_RUN = 4
+BLACK_panther = 5
 
 print("")
 print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_FUN_RUN}')
