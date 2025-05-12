@@ -79,6 +79,7 @@ SUN_FUN_RUN = 4
 BLACK_panther = 5
 SUN_BOY = 6
 KEY_ONE = 7
+BOY_WITH_ROSE = 8
 
 print("")
 print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_FUN_RUN}')
