@@ -84,7 +84,7 @@ KNIGHT_RIDER = 9
 
 print("")
 print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_FUN_RUN}')
-user_choice = int(input("Enter your choise using only 1,2,3,4 : "))
+user_choice = int(input("Enter your choise using only 1,2,3,4,5,6,7,8,9 : "))
 
 print("")
 if user_choice == 1:
