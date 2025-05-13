@@ -104,7 +104,10 @@ else:
                 else:
                     if user_choice == 6:
                         print("SUN BOY")
-                        
+                    else:
+                        if user_choice == 7:
+                            print("KEY ONE")
+
             
 
 
