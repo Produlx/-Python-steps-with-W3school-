@@ -96,8 +96,9 @@ else:
         if user_choice == 3:
             print("The Lost")
         else:
-            user_choice == 4
-            print("SUN FUN RUN")
+            if user_choice == 4:
+                print("SUN FUN RUN")
+            
 
 
 '''
