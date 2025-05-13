@@ -101,6 +101,10 @@ else:
             else:
                 if user_choice == 5:
                     print("BLACK PANTHER")
+                else:
+                    if user_choice == 6:
+                        print("SUN BOY")
+                        
             
 
 
