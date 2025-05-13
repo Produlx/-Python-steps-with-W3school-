@@ -98,6 +98,9 @@ else:
         else:
             if user_choice == 4:
                 print("SUN FUN RUN")
+            else:
+                if user_choice == 5:
+                    print("BLACK PANTHER")
             
 
 
