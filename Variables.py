@@ -115,6 +115,9 @@ else:
                         else:
                             if user_choice == 8:
                                 print("BOY WITH ROSE")
+                            else:
+                                if user_choice == 9:
+                                    print("KNIGHT RIDER")
 
             
 
