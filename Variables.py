@@ -112,6 +112,9 @@ else:
                     else:
                         if user_choice == 7:
                             print("KEY ONE")
+                        else:
+                            if user_choice == 8:
+                                print("BOY WITH ROSE")
 
             
 
