@@ -89,7 +89,7 @@ BABY_DRIVER = 14
 
 print("")
 print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_FUN_RUN} , {BLACK_panther} , {SUN_BOY} , {KEY_ONE} , {BOY_WITH_ROSE} , {KNIGHT_RIDER} , {THOR_LOVE_AND_THUNDER} , {DIRTY_LOVE} , {PIG_BETI} , {NUN} , {BABY_DRIVER}')
-user_choice = int(input("Enter your choise using only 1,2,3,4,5,6,7,8,9 : "))
+user_choice = int(input("Enter your choise using only 1,2,3,4,5,6,7,8,9,10,11,12,13,14 : "))
 
 print("")
 if user_choice == 1:
