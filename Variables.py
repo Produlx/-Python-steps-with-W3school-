@@ -119,8 +119,11 @@ else:
                                 if user_choice == 9:
                                     print("KNIGHT RIDER")
                                 else:
-                                    if user_choice ==9:
+                                    if user_choice == 10:
                                         print("THOR LOVE AND THE THUNDER")
+                                    else:
+                                        if user_choice == 11:
+                                            print("DIRTY LOVE")
 
             
 
