@@ -124,6 +124,13 @@ else:
                                     else:
                                         if user_choice == 11:
                                             print("DIRTY LOVE")
+                                        else:
+                                            if user_choice == 12:
+                                                print("PIG BETI")
+                                            else:
+                                                if user_choice == 13:
+                                                    print("NUN")
+
 
             
 
