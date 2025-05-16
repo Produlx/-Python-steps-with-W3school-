@@ -92,6 +92,8 @@ print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_
 user_choice = int(input("Enter your choise using only 1,2,3,4,5,6,7,8,9,10,11,12,13,14 : "))
 
 print("")
+
+print("")
 if user_choice == 1:
     print("Meg 2")
 else:
