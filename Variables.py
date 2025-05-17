@@ -89,8 +89,8 @@ NUN = 13
 BABY_DRIVER = 14
 
 print("")
-print(f'We have avalible to watch {MEG_2} , {DEAD_RACING_3} , {THE_LOST} , {SUN_FUN_RUN} , {BLACK_panther} , {SUN_BOY} , {KEY_ONE} , {BOY_WITH_ROSE} , {KNIGHT_RIDER} , {THOR_LOVE_AND_THUNDER} , {DIRTY_LOVE} , {PIG_BETI} , {NUN} , {BABY_DRIVER}')
-user_choice = int(input("Enter your choise using only 1,2,3,4,5,6,7,8,9,10,11,12,13,14 : "))
+print(f'We have avalible to watch " (1)MEG_2 , (2)DEAD_RACING_3 , (3)THE_LOST , (4)SUN_FUN_RUN , (5)BLACK_Panther , (6)SUN_BOY , (7)KEY_ONE , (8)BOY_WITH_ROSE , (9)KNIGHT_RIDER , (10)THOR_LOVE_AND_THUNDER , (11)DIRTY_LOVE , (12)PIG_BETI , (13)NUN , (14)BABY_DRIVER " ')
+user_choice = int(input("Enter your choise using only 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 : "))
 
 print("")
 
