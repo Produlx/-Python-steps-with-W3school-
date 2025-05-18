@@ -143,7 +143,7 @@ else:
 print("")
 
 greeting_user = input("Wade goda neda? ")
-
+comment_user = input("Leave a comment here: ")
             
 
 
