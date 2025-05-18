@@ -148,7 +148,9 @@ comment_user = input("Leave a comment here: ")
 print("")
 
 #rating section 
-print(f'Raite here')
+print(f'Raite section ')
+rate_user = input("5 or 4 or 3 or 2 or 1")
+
 
             
 
