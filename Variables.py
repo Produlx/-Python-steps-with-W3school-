@@ -142,7 +142,8 @@ else:
 
 print("")
 
-greeting_user = input("Hi?")
+greeting_user = input("Wade goda neda? ")
+
             
 
 
