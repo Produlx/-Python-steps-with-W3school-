@@ -66,6 +66,8 @@ relation_user = input("ARE YOU SINGLE OR DOUBLE? ")
 if sex_user == "Female":
     print(f'Hey {name_user},drop your wp number: ')
     wp_user = input()
+    print(f'{name_user}type  your instergram username: ')
+    
 
 print("")
 print("dear",name_user , ", How can i help you today?")
