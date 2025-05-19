@@ -61,6 +61,7 @@ name_user = input("Enter your name: ")
 age_user = int(input(f'Enter your age: '))
 sex_user = input("Male or Female: ")
 nic_user = input("ENTER YOUR NIC NUMBER: ")
+relation_user = input("ARE YOU SINGLE OR DOUBLE? ")
 
 if sex_user == "Female":
     print(f'Hey {name_user},drop your wp number: ')
