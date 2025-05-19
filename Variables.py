@@ -155,6 +155,7 @@ print("")
 #rating section 
 print(f'Raite section ')
 rate_user = input("5 or 4 or 3 or 2 or 1")
+print("GOOD LUCK")
 
 
             
