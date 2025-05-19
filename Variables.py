@@ -63,6 +63,7 @@ sex_user = input("Male or Female: ")
 nic_user = input("ENTER YOUR NIC NUMBER: ")
 relation_user = input("ARE YOU SINGLE OR DOUBLE? ")
 
+print("")
 if sex_user == "Female":
     print(f'Hey {name_user},drop your wp number: ')
     wp_user = input()
